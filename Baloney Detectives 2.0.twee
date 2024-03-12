@@ -13,7 +13,7 @@ Baloney Detectives
 
 
 :: Carrots {"position":"675,850","size":"100,100"}
-<img src="https://cdn.theplaylist.net/wp-content/uploads/2019/06/14204031/Nic-Cage-Vampires-Kiss-750x400.jpg"></img>
+<img src="https://m.media-amazon.com/images/I/41BAUZ6jKXL._AC_UF1000,1000_QL80_.jpg"></img>
 
 You refuse to eat carrots, sacrificing your eyes to become a creature of the night.
 
@@ -147,10 +147,10 @@ Created by a group of library school students taking a design methods course:
 * ''Luka Taing'': Game Designer
 
 Special thanks:
+* ''Professor David Hendry'' for teaching us everything about design.
 * ''The UW Center for an Informed Public and GAMER Lab'' for inspiring us to tackle misinformation with games.
 * ''Joe's teenage cousins (Michael and Alex)'' for testing this game and telling us it doesn't suck.
 * ''Carl Sagan'' for inspiring the theme of baloney-detecting.
-* ''Robin Chin-Roemer'', Joe's manager, for sharing learner-centered design resources with us at the start of our design process.
 
 
 :: Scragg, R. et. al. (2017) {"position":"675,1100","size":"100,100"}
@@ -251,12 +251,9 @@ img {
   width: 500px;
 }
 
-p {
-  color: #FFFFFF;
-}
-
-body {
-  background-color: #000000
+tw-story {
+  background-color: #EEEEEE;
+  color: #000000;
 }
 
 img.gif {
